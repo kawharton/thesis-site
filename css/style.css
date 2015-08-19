@@ -203,8 +203,14 @@ a, a:active, a:hover {
 
 .header a {
   color: white;
-  font-size: 32px;
+  font-size: 3.5em;
+position: absolute;
+  top: 20%;
+  left: 10%;
+  font-family: lora;
+  text-align: left;
 }
+
 
 img {
 	width: 100%;
@@ -407,6 +413,13 @@ border: 1px solid black;
   padding-bottom: 2%;
 }
 
+/*
+.vert-center{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+*/
 
 footer {
 	height: 50px;

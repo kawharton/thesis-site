@@ -1,4 +1,4 @@
- .contents-box {
+.contents-box {
   width:40%;
 	background:#007591;
 	margin: 5% auto; 
@@ -38,7 +38,7 @@
   box-shadow: inset 0 0 0.5em #111;
   height: 500px;
    color: black;
-  font-size: 5em;
+  font-size: 4em;
   font-family: lora;
   text-align: center;
   padding-top: 6%;
@@ -48,8 +48,8 @@
    background-image: url(../img/ad-brain-alz.gif);
   box-shadow: inset 0 0 1em #111;
   height: 500px;
-  color: white;
-  font-size: 6em;
+  color: black;
+  font-size: 4em;
   font-family: lora;
   text-align: center;
   padding-top: 5%;
@@ -60,11 +60,11 @@
    background-image: url(../img/meditation.gif);
   box-shadow: inset 0 0 1em #111;
   height: 500px;
-  color: white;
-  font-size: 6em;
+  color: black;
+  font-size: 4em;
   font-family: lora;
   text-align: center;
-  padding-top: 5%;
+  padding-top: 5%
  
 }
 
